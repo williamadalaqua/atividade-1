@@ -1,0 +1,30 @@
+{
+  "name": "atividade-1",
+  "version": "1.0.0",
+  "description": "Atividade 1 ",
+  "keywords": [
+    "progamacaointernet",
+    "atividade1",
+    "atividade-renato"
+  ],
+  "homepage": "https://github.com/williamadalaqua/atividade-1#readme",
+  "bugs": {
+    "url": "https://github.com/williamadalaqua/atividade-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamadalaqua/atividade-1.git"
+  },
+  "license": "ISC",
+  "author": "William-Alcantara-Dalaqua",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
