@@ -24,12 +24,7 @@ app.get('/', (req, res) => {
             <title>Calculadora para reajuste de funcionarios</title>
         </head>
         <body>
-            
-           
-               
-        </body>
-        </html>
-            <h1 style="color:green">FACA OS CALCULOS DE REAJUSTE DE SALARIO !!!</h1>
+            <h1 style="background-color:green">FACA OS CALCULOS DE REAJUSTE DE SALARIO !!!</h1>
             </br>
             <ul>
                 <p>PASSO A PASSO:</p>
@@ -45,6 +40,8 @@ app.get('/', (req, res) => {
             <p>DE ACORDO COM O EXEMPLO ABAIXO:</p>
 
             <p>http://localhost:9500/?idade=30&sexo=M&salario_base=2000&anoContratacao=2010&matricula=123</p>
+        </body>
+        </html>
         `);
     }
 
